@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+The site created for learn frontend development [Real Estate Agency](https://rabbit72.github.io/21_valid_markup)
 
 # Project Goals
 
